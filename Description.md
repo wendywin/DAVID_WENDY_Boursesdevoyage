@@ -1,2 +1,2 @@
 
-Pour ajouter des photos ![le nom de l'images](url de l'image que je veux ajouter)
+Pour ajouter des photos ![afcf_col.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/afcf_col.png)
