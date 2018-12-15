@@ -43,9 +43,14 @@ Nous observons ici l'indice de coocurences, pour cette première illustration j'
 Voici le deuxième visuel prenant en compte 170 formes. 
 ![graph_simi_1 copie 2.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_1%20copie%202.png)
 
+Nous avons également la possibilité de faires un regroupement en halos. 
 ![graph_simi_1.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_1.png)
 
+J'ai fait le choix de mettre en avant le premier chapitre des deux parties. 
+
 ![graph_simi_2.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_2.png)
+
+Après avoir analyser le premier chapitre, il semblait intéressant d'analyser le dernier chapitre des deux parties. 
 
 ![graph_simi_3.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_3.png)
 
