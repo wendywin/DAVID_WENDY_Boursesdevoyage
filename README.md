@@ -3,7 +3,7 @@
 ### TD à rendre - Transilvania 
  [Description](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/Description.md)
 
- [Questions](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/Description.md)
+ [Questions](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/Questions.md)
 
 _David Wendy_
 
