@@ -19,9 +19,11 @@ L'étape suivante à été de trouver le même ouvrage en format epub : [(.epub)
 
 ## Visualisation
 
-# Stastistiques
+### Stastistiques
 
 ![stastistiques.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/stastistiques.png)
+
+### Analyse Factorielle des Correspondances (AFC)
 
 ![afcf_col.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/afcf_col.png)
 
@@ -29,10 +31,9 @@ L'étape suivante à été de trouver le même ouvrage en format epub : [(.epub)
 
 ![afct_col.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/afct_col.png)
 
-[(.txt)](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/Bourses-de-voyage_Jules-Vernes.txt)
-
-
 ![graph_afc_1.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_afc_1.png)
+
+
 
 ![graph_simi_1 copie 2.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_1%20copie%202.png)
 
@@ -45,6 +46,11 @@ L'étape suivante à été de trouver le même ouvrage en format epub : [(.epub)
 ![graph_simi_2.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_2.png)
 
 ![graph_simi_3.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_3.png)
+
+### Nuage de mot 
+
+
+Cette visualisation permet d'avoir une vision des mots avec le plus grands nombres d'occurrence. Cela se traduit par différente taille de police. Ici, plus le mot se voit plus il est présent dans l'ouvrage. Cela nous permet d'avoir une vision globale. Ce type de visualisation est très pertinent puisqu'elle est facile de lecture. 
 
 ![nuage_1.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/nuage_1.png)
 
