@@ -1,9 +1,9 @@
 # David Wendy
 ## Jules Verne Bourses de voyage 
 ### TD à rendre - Transilvania 
- [Description]()
+ [Description](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/Description.md)
 
-Questions 
+ [Questions](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/Description.md)
 
 _David Wendy_
 
