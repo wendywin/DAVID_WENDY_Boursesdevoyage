@@ -40,6 +40,7 @@ Nous observons ici l'indice de coocurences, pour cette première illustration j'
 
 ![graph_simi_1 copie.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_1%20copie.png)
 
+Voici le deuxième visuel prenant en compte 170 formes. 
 ![graph_simi_1 copie 2.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_1%20copie%202.png)
 
 ![graph_simi_1.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_1.png)
