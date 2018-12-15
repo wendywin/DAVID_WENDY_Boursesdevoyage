@@ -7,3 +7,19 @@ Pour ajouter des photos
 ![afct_col.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/afct_col.png)
 
 [(.txt)](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/Bourses-de-voyage_Jules-Vernes.txt)
+
+
+![graph_afc_1.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_afc_1.png)
+
+![graph_simi_1 copie 2.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_1%20copie%202.png)
+
+![graph_simi_1 copie.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_1%20copie.png)
+
+
+![graph_simi_1.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_1.png)
+
+
+![graph_simi_2.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/graph_simi_2.png)
+
+
+
