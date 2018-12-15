@@ -19,6 +19,9 @@ L'étape suivante à été de trouver le même ouvrage en format epub : [(.epub)
 
 ## Visualisation
 
+# Stastistiques
+
+![stastistiques.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/stastistiques.png)
 
 ![afcf_col.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/afcf_col.png)
 
@@ -45,9 +48,6 @@ L'étape suivante à été de trouver le même ouvrage en format epub : [(.epub)
 
 ![nuage_1.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/nuage_1.png)
 
-
-![stastistiques.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/stastistiques.png)
- 
  
 
 
