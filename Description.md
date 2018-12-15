@@ -15,7 +15,9 @@ La première étape à été de trouver l'ouvrage en version intégrale. Une foi
 
 Voici le lien vers le fichier [(.txt)](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/Bourses-de-voyage_Jules-Vernes.txt)
 
-L'étape suivante à été de trouver le même texte en format epub : [(.epub)](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/Verne-Bourses_de_voyage.epub)
+L'étape suivante à été de trouver le même ouvrage en format epub : [(.epub)](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/Verne-Bourses_de_voyage.epub) Ce format peut être télécharger directement via iramuteq. 
+
+## Visualisation
 
 
 ![afcf_col.png](https://github.com/wendywin/DAVID_WENDY_Boursesdevoyage/blob/master/images/afcf_col.png)
